@@ -18,7 +18,6 @@ https://github.com/suzhixiaoliao/floatButton/blob/master/%E5%BE%AE%E4%BF%A1%E6%8
        topPos: 0.8,//高度
     });
 # 步骤二
-//<import src="../../template/floatButton/floatButton.wxml" />
- //<template is="floatButton" data="{{...home}}" />
-# 步骤三
-//@import '../../template/floatButton/floatButton.wxss';
+<import src="../../template/floatButton/floatButton.wxml" />
+<template is="floatButton" data="{{...home}}" />
+# 步骤三@import '../../template/floatButton/floatButton.wxss';
